@@ -6,3 +6,7 @@
     background-color: black;
     color: white;
   }
+
+.mat-mdc-outlined-button:not(:disabled) {
+    border-color: white;
+  }
