@@ -1,7 +1,7 @@
 # Jornada Milhas - Alura
 
 ## 📒 Sobre
-<p align="center">Login com Firebase</p>
+<p align="center">Jornada Milhas - Projeto desenvolvido no curso da Alura</p>
 
 ## 🛠️ Tecnologias e Ferramentas
 - xxxx
