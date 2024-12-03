@@ -5,6 +5,7 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 - Angular
+- Angular Material
 
 ## ▶️ Funcionalidades
 - xxxx
