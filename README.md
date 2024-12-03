@@ -4,7 +4,7 @@
 <p align="center">Jornada Milhas - Projeto desenvolvido no curso da Alura</p>
 
 ## 🛠️ Tecnologias e Ferramentas
-- xxxx
+- Angular
 
 ## ▶️ Funcionalidades
 - xxxx
